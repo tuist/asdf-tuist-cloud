@@ -3,6 +3,7 @@
 # asdf-tuist-cloud [![Build](https://github.com/tuist/asdf-tuist-cloud/actions/workflows/build.yml/badge.svg)](https://github.com/tuist/asdf-tuist-cloud/actions/workflows/build.yml) [![Lint](https://github.com/tuist/asdf-tuist-cloud/actions/workflows/lint.yml/badge.svg)](https://github.com/tuist/asdf-tuist-cloud/actions/workflows/lint.yml)
 
 [tuist](https://docs.tuist.io) plugin for the [asdf version manager](https://asdf-vm.com).
+**This plugin installs a version of Tuist augmented with features to work with Tuist Cloud, for example caching. The executable in the system is always `tuist`.**
 
 </div>
 
